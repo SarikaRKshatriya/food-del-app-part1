@@ -1,0 +1,4 @@
+- inline style
+- map 
+- header
+- render data
